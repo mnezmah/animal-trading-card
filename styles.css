@@ -1,0 +1,78 @@
+* {
+	font-family: "Catamaran", sans-serif;
+}
+
+body {
+	width: 350px;
+}
+
+h3  {
+	font-family: "Comfortaa", cursive;
+	color: #4b3115;
+	font-weight: bold;
+	border: 2px solid  #959379;
+	border-radius: 4px;
+	height: 1.2em;
+	width: 300px;
+	margin-left: 15px;
+	padding-top: 5px;
+	text-align: center;
+}
+
+.container {
+	color: #4b3115;
+	background-color: #C4d3dd;
+	border: 2px solid  #959379;
+	border-radius: 4px;
+	box-shadow: 10px 10px 5px #dcdbcc;
+	margin-left: 15px;
+	margin-top: 15px;
+	padding-bottom: 15px;
+}
+
+.info {
+	border: 2px solid  #959379;
+	border-radius: 4px;
+	width: 300px;
+	position:static;
+	margin-top: 15px;
+	margin-left: 15px;
+}
+
+.fact {
+	color: #4b3115;
+	font-style: italic;
+	width: 280px;
+}
+
+
+.label {
+	color: #4b3115;
+	font-weight: bold;
+}
+
+img {
+	width: 300px;
+	border-radius: 4px;
+	position: relative;
+	left: 15px;
+	border: 2px solid  #959379;
+	border-radius: 4px;
+}
+
+ul {
+	color: #4b3115;
+	list-style-type: none;
+	padding-left: 12px;
+	line-height: 1.2em;
+}
+
+
+p {
+	position: relative;
+	left: 12px;
+	width: 280px;
+	text-align: justify;
+	line-height: 1.2em;
+	margin-bottom: 10px;
+}
